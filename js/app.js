@@ -8,18 +8,18 @@ const members = [
       "images/liyu7.jpg"
     ], 
     detailImg: "images/liyu-pro1.jpg", 
-    bio: "립우가 생각한 립우의 이미지는 차갑게 생긴 바보." 
+    bio: "상현이가 생각한 싱현의 이미지는 착한 아이" 
   },
   { 
     id: 2, 
-    name: "CHUEI LI YU'S", 
+    name: "CHUNG SANG HYEON'S", 
     profileImgs: [
       "images/liyu44.jpg", 
       "images/liyu45.jpg", 
       "images/liyu46.jpg"
     ], 
     detailImg: "images/liyu-pro2.jpg", 
-    bio: "립우가 연습하며 생긴 습관은 정신 나가며 몸 움직이기." 
+    bio: "상현이가 연습하며 생긴 습관은 P에서 J로!!" 
   },
   { 
     id: 3, 
@@ -29,68 +29,68 @@ const members = [
       "images/liyu39.jpg"
     ], 
     detailImg: "images/liyu-pro3.jpg", 
-    bio: "립우가 도전하고 싶은 무대 컨셉은 뭐든지!" 
+    bio: "상현이가 도전하고 싶은 무대 컨셉은 뭐든지!!" 
   },
   { 
     id: 4, 
-    name: "崔立于", 
+    name: "A.K.A SWICY", 
     profileImgs: [
       "images/liyu32.jpg", 
       "images/liyu33.jpg"
     ], 
     detailImg: "images/liyu-pro4.jpg", 
-    bio: "립우의 최대 강점은 얼굴!" 
+    bio: "상현이가 생각한 상현이의 최대 강점은 비주얼...?" 
   },
   { 
     id: 5, 
-    name: "최립우", 
+    name: "정상현", 
     profileImgs: [
       "images/liyu35.jpg", 
       "images/liyu34.jpg"
     ], 
     detailImg: "images/liyu-pro5.jpg", 
-    bio: "BOYS II PLANET에서 슈퍼스타가 될 첫 STEP을 내딛겠습니다!" 
+    bio: "여러분들의 마음에 ALL TIME 0순위가 되겠습니다!" 
   },
   { 
     id: 6, 
-    name: "CHUEI LI YU", 
+    name: "CHUNG SANG HYEON", 
     profileImgs: [
       "images/liyu22.jpg", 
       "images/liyu23.jpg",
       "images/liyu24.jpg"
     ], 
     detailImg: "images/liyu-pro6.jpg", 
-    bio: "과거 지원서 쓰던 립우에게 한마디 잘 될거니까 그냥 하자!" 
+    bio: "과거 지원서 쓰던 상현이에게 한마디 앞으로 화이팅...!" 
   },
   { 
     id: 7, 
-    name: "#순간콜렉터", 
+    name: "#0순위개냥이", 
     profileImgs: [
       "images/liyu17.jpg", 
       "images/liyu18.jpg"
     ], 
     detailImg: "images/liyu-pro7.jpg", 
-    bio: "지금 립우에게 힘이 되는 한마디는 잘 하고 있어 걱정마!" 
+    bio: "지금 상현이에게 힘이 되는 한마디는 이 순간만 버텨내보자 LET'S GO!!" 
   },
   { 
     id: 8, 
-    name: "#미대오빠", 
+    name: "#최애의상현", 
     profileImgs: [
       "images/liyu31.jpg", 
       "images/liyu30.jpg"
     ], 
     detailImg: "images/liyu-pro8.jpg", 
-    bio: "미래 파이널을 앞둔 립우에게 한마디 이번에도 잘 할 수 있어!" 
+    bio: "미래 파이널을 앞둔 상현이에게 한마디 그냥 하는 거야!!" 
   },
   { 
     id: 9, 
-    name: "#버니립우", 
+    name: "#비주얼 ON THE TOP!!", 
     profileImgs: [
       "images/liyu16.jpg", 
       "images/liyu15.jpg"
     ], 
     detailImg: "images/liyu-pro9.jpg", 
-    bio: "베스트 초이스 리부초이 놓치지 마세요!" 
+    bio: "저에게 주어진 이 소중한 기회를 저를 응원해주시고 사랑해주시는 여러분들과 함께하고 싶습니다!!" 
   }
 ];
 
@@ -177,7 +177,7 @@ function App() {
     React.createElement("h1", {
       className: "text-2xl sm:text-3xl font-bold mb-6 fixed top-4 left-4 z-50",
       style: { fontFamily: "Sequel100Black, sans-serif" }
-    }, "CHUEI LI YU"),
+    }, "CHUNG SANG HYEON"),
 
     // 카드 그리드
     React.createElement(
