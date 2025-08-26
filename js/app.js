@@ -3,93 +3,92 @@ const members = [
     id: 1, 
     name: "WE WANT", 
     profileImgs: [
-      "images/liyu8.jpg", 
-      "images/liyu9.jpg", 
-      "images/liyu7.jpg"
+      "images/hyun5.jpg", 
+      "images/hyun6.jpg", 
+      "images/hyun7.jpg"
     ], 
-    detailImg: "images/liyu-pro1.jpg", 
+    detailImg: "images/hyun-pro1.jpg", 
     bio: "상현이가 생각한 싱현의 이미지는 착한 아이" 
   },
   { 
     id: 2, 
     name: "CHUNG SANG HYEON'S", 
     profileImgs: [
-      "images/liyu44.jpg", 
-      "images/liyu45.jpg", 
-      "images/liyu46.jpg"
+      "images/hyun1.jpg", 
+      "images/hyun2.jpg"
     ], 
-    detailImg: "images/liyu-pro2.jpg", 
+    detailImg: "images/hyun-pro2.jpg", 
     bio: "상현이가 연습하며 생긴 습관은 P에서 J로!!" 
   },
   { 
     id: 3, 
     name: "DEBUT", 
     profileImgs: [
-      "images/liyu40.jpg", 
-      "images/liyu39.jpg"
+      "images/hyun21.jpg", 
+      "images/hyun22.jpg"
     ], 
-    detailImg: "images/liyu-pro3.jpg", 
+    detailImg: "images/hyun-pro3.jpg", 
     bio: "상현이가 도전하고 싶은 무대 컨셉은 뭐든지!!" 
   },
   { 
     id: 4, 
     name: "A.K.A SWICY", 
     profileImgs: [
-      "images/liyu32.jpg", 
-      "images/liyu33.jpg"
+      "images/hyun3.jpg", 
+      "images/hyun4.jpg"
     ], 
-    detailImg: "images/liyu-pro4.jpg", 
+    detailImg: "images/hyun-pro4.jpg", 
     bio: "상현이가 생각한 상현이의 최대 강점은 비주얼...?" 
   },
   { 
     id: 5, 
     name: "정상현", 
     profileImgs: [
-      "images/liyu35.jpg", 
-      "images/liyu34.jpg"
+      "images/hyun17.jpg", 
+      "images/hyun18.jpg"
     ], 
-    detailImg: "images/liyu-pro5.jpg", 
+    detailImg: "images/hyun-pro5.jpg", 
     bio: "여러분들의 마음에 ALL TIME 0순위가 되겠습니다!" 
   },
   { 
     id: 6, 
     name: "CHUNG SANG HYEON", 
     profileImgs: [
-      "images/liyu22.jpg", 
-      "images/liyu23.jpg",
-      "images/liyu24.jpg"
+      "images/hyun10.jpg", 
+      "images/hyun11.jpg",
+      "images/hyun12.jpg"
     ], 
-    detailImg: "images/liyu-pro6.jpg", 
+    detailImg: "images/hyun-pro6.jpg", 
     bio: "과거 지원서 쓰던 상현이에게 한마디 앞으로 화이팅...!" 
   },
   { 
     id: 7, 
     name: "#0순위개냥이", 
     profileImgs: [
-      "images/liyu17.jpg", 
-      "images/liyu18.jpg"
+      "images/hyun23.jpg", 
+      "images/hyun24.jpg"
     ], 
-    detailImg: "images/liyu-pro7.jpg", 
+    detailImg: "images/hyun-pro7.jpg", 
     bio: "지금 상현이에게 힘이 되는 한마디는 이 순간만 버텨내보자 LET'S GO!!" 
   },
   { 
     id: 8, 
     name: "#최애의상현", 
     profileImgs: [
-      "images/liyu31.jpg", 
-      "images/liyu30.jpg"
+      "images/hyun8.jpg", 
+      "images/hyun9.jpg"
     ], 
-    detailImg: "images/liyu-pro8.jpg", 
+    detailImg: "images/hyun-pro8.jpg", 
     bio: "미래 파이널을 앞둔 상현이에게 한마디 그냥 하는 거야!!" 
   },
   { 
     id: 9, 
     name: "#비주얼 ON THE TOP!!", 
     profileImgs: [
-      "images/liyu16.jpg", 
-      "images/liyu15.jpg"
+      "images/hyun15.jpg", 
+      "images/hyun16.jpg"
     ], 
-    detailImg: "images/liyu-pro9.jpg", 
+    detailImg: "images/hyun-pro9.jpg", 
     bio: "저에게 주어진 이 소중한 기회를 저를 응원해주시고 사랑해주시는 여러분들과 함께하고 싶습니다!!" 
   }
 ];
