@@ -27,7 +27,7 @@ const members = [
       "images/hyun21.jpg", 
       "images/hyun22.jpg"
     ], 
-    detailImg: "images/hyun-pro3.jpg", 
+    detailImg: "images/hyun-pro3.gif", 
     bio: "상현이가 도전하고 싶은 무대 컨셉은 뭐든지!!" 
   },
   { 
